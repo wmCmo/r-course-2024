@@ -10,7 +10,7 @@ if (current_age > 60) {
   pass60 = current_age - 60
   age60_year = 2024 - pass60
   
-  cat("Good day ", name, "さん, you're now", current_age, "and you already reach 60 years old in the year", age60_year)
+  cat("Good day ", name, "さん, you're now", current_age, "and you already reached 60 years old in the year", age60_year)
 
 } else if (current_age == 60) {
   
